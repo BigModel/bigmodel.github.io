@@ -9,7 +9,7 @@ I hope many people can be profitable through this project, thank you very much f
 Thank you!
 
 twitter
-url: https://twitter.com/Lucasfreitasds
+url: https://twitter.com/BigModeLK
 discord
 https://discord.com/channels/960731476062797854/960731752853286972
 
