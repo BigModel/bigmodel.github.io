@@ -13,3 +13,5 @@ url: https://twitter.com/BigModeLK
 discord
 https://discord.com/channels/960731476062797854/960731752853286972
 
+Instagram: https://www.instagram.com/lucasfreitason/
+
