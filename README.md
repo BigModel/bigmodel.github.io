@@ -1,17 +1,6 @@
 # bigmodel.github.io
 I'm a little big model
 
-# Site settings
-title: I'm a big model
-description: My parents dream of me being a model!
-# Color settings (hex-codes without the leading hash-tag)
-color:
-  primary-dark: '#000000'
-  links: '#219ab3'
-
-# Footer settings
-footer: Your Website
-
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
